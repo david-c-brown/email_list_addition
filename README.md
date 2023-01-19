@@ -15,4 +15,4 @@
 ## additional notes:
 * this took an hour or so to run uninterrupted. average iteration time of 1.43/s
 * by hand each source in the list would have take a 45/s, assuming no distractions and typical workpace.
-* final program reduced the conservative time spent by 97%
+* time spent reduced by 97%
