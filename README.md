@@ -1,7 +1,7 @@
 # email list distribution across multiple locations
 
 ## problem:
-* internal crm is archaic, so simply bulk download/upload isn't supported
+* internal crm is archaic, bulk download/upload isn't supported for this area
 * in the same vein, locational databases do not talk to each other, even if they have identical sources
 * the html / javascript is written without much thought to actual usage
 * remote server access is owned by the contracted company, and they do not allow access to their database
