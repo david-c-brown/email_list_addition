@@ -13,6 +13,6 @@
 * remove sources from list once they've been added to a locations mail blast
 
 ## additional notes:
-* this took an hour or so to run uninterrupted. average iteration time of 1.43/s
+* this took 117 minutes to run uninterrupted. average iteration time of 1.43/s
 * by hand each source in the list would have take a 45/s, assuming no distractions and typical workpace.
 * time spent reduced by 97%
