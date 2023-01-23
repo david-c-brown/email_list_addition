@@ -16,3 +16,7 @@
 * this took 117 minutes to run uninterrupted. average iteration time of 1.43/s
 * by hand each source in the list would have take a 45/s, assuming no distractions and typical workpace.
 * time spent reduced by 97%
+
+## why jupyter?
+* the final full solution required some creative steps for certain locations based on website idiosynchrasies
+* simpler to locate and fix edge cases without dropping seleniums connection
